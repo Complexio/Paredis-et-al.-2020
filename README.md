@@ -1,4 +1,4 @@
-# Online Supplementary Material to Paredis-et-al.-2020
+# Online Supplementary Material to Paredis et al. (2020)
 
 ## Data
 
@@ -14,4 +14,6 @@
 - Data on interfacial data by Heins (1992).
 
 ## Figures
+
+### CSD
 - ln(D*) vs q plots per pluton.
